@@ -1,5 +1,6 @@
 /**
  * @format
+ * woraya chuichai
  */
 
 import {AppRegistry} from 'react-native';
